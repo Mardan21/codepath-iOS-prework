@@ -6,7 +6,7 @@ This app allows the user to introduce themselves by inputting their first name, 
 
 App Walk-though:
 
-https://giphy.com/gifs/3eiJ28retS45dw1FGd
+https://i.imgur.com/rpUE36d.gif
 
 Required Features:
 
